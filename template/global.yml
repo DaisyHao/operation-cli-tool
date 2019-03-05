@@ -1,0 +1,3 @@
+application:
+  name: <%= projectName %>
+  size: <%= size %>

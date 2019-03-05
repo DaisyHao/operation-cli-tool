@@ -1,0 +1,10 @@
+{
+    "operationName": "open-banking-operation",
+    "projectName": "cmb-obhk-openbanking-pa-customer",
+    "size": "1024MB",
+    "sctEnv": {
+        "orgName": "dev",
+        "spaceName": "sct",
+        "containerSize": "2048"
+    }
+}

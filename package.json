@@ -1,0 +1,22 @@
+{
+  "name": "cmb-obhk-openbanking-pa-customer",
+  "version": "1.0.0",
+  "description": "this project is used to generate the settings file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp",
+    "pcf"
+  ],
+  "author": "johnny.z.h.chen@outlook.com",
+  "license": "ISC",
+  "dependencies": {
+    "del": "^4.0.0",
+    "gulp": "3.9.1",
+    "gulp-rename": "^1.4.0",
+    "gulp-template": "^5.0.0"
+  },
+  "devDependencies": {}
+}
